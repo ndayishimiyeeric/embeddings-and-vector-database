@@ -1,0 +1,6 @@
+openai
+langchain
+qdrant_client
+jupyter
+python-decouple
+tiktoken
